@@ -1,16 +1,16 @@
 {
-  "version": "0.3.2",
+  "version": "0.3.3",
   "description": "Publish services that AI agents discover and pay to call.",
   "homepage": "https://github.com/usevaris/varis-cli",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/usevaris/varis-cli/releases/download/v0.3.2/varis-windows-x64.zip",
-      "hash": "b7cd8f0a6a2a0aa4a72cbf9b95367f22e574b39435fbf6f5a0225ae00e0e24c8"
+      "url": "https://github.com/usevaris/varis-cli/releases/download/v0.3.3/varis-windows-x64.zip",
+      "hash": "a680253ed1115859e2968e69b93be9d962d0ac380f68d3d9d020a17b6fad4913"
     },
     "arm64": {
-      "url": "https://github.com/usevaris/varis-cli/releases/download/v0.3.2/varis-windows-x64.zip",
-      "hash": "b7cd8f0a6a2a0aa4a72cbf9b95367f22e574b39435fbf6f5a0225ae00e0e24c8"
+      "url": "https://github.com/usevaris/varis-cli/releases/download/v0.3.3/varis-windows-x64.zip",
+      "hash": "a680253ed1115859e2968e69b93be9d962d0ac380f68d3d9d020a17b6fad4913"
     }
   },
   "bin": "varis.exe"
